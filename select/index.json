@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "Same numbers",
   "base_artist": "乃木坂46",
-  "createdAt": "2025-12-23T16:58:50.274743Z",
+  "createdAt": "2026-03-24T10:21:03.947258Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -21,12 +21,38 @@
       "path": "select/02_Same_numbers_Nogizaka46.txt"
     },
     {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Same numbers",
+      "artist": "乃木坂46",
+      "has_synced": true,
+      "path": "select/03_Same_numbers_乃木坂46.lrc"
+    },
+    {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
       "title": "Same numbers",
       "artist": "乃木坂46",
       "has_synced": false,
       "path": "select/pl_01_Same_numbers_乃木坂46.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Same numbers",
+      "artist": "乃木坂46",
+      "has_synced": false,
+      "path": "select/localdb_01_Same_numbers_乃木坂46.txt",
+      "repo_name": "g70yImobLm4"
+    },
+    {
+      "id": "localdb_2",
+      "source": "localdb",
+      "title": "Same numbers",
+      "artist": "乃木坂46",
+      "has_synced": false,
+      "path": "select/localdb_02_Same_numbers_乃木坂46.txt",
+      "repo_name": "EG7tBqYYuCM"
     }
   ]
 }
